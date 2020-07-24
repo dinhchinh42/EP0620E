@@ -1,7 +1,7 @@
 //ghi ra file text(nhap vao 1 mang in ra file...), mot cau ve mang(nhap vao 1 so random. duyet mang, tinh toan so trong mang, lon nhat nho nhat, chia het,...)
 //danh sach lien ket, nhap xuat, chuoi(duyet chuoi, chu hoa thanh chu thuong, dem ky tu, vi tri ky tu)
 //dem so luong ky tu, co bao nhieu ky tu, no nam dau)
-//bt ve danh sach
+//bt ve danh sach list
 /*
    + nhap so luong nhan vien tu ban phim
    +  ma nhan vien, ten nhan vien, luong co ban, phu cap
